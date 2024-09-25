@@ -1,0 +1,1 @@
+postgresql://test_owner:WwuATaYL4G6E@ep-super-thunder-a5k9g6il.us-east-2.aws.neon.tech/test?sslmode=require
